@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Common Ground campaign poster</title><desc id="desc">Abstract coral, blue, and black shapes with bold poster typography.</desc>
+  <rect width="1200" height="900" fill="#fffdf8"/>
+  <path d="M0 0h625v900H0z" fill="#ff5f6d"/>
+  <path d="M840 0h360v900H740c170-170 170-730 100-900z" fill="#3d4dff"/>
+  <circle cx="595" cy="450" r="260" fill="#d8ff58"/>
+  <circle cx="595" cy="450" r="126" fill="#11131a"/>
+  <text x="70" y="135" font-family="Arial" font-size="74" font-weight="900" fill="#11131a">COMMON</text>
+  <text x="70" y="210" font-family="Arial" font-size="74" font-weight="900" fill="#11131a">GROUND</text>
+  <text x="850" y="760" font-family="Arial" font-size="31" font-weight="700" fill="#fffdf8" transform="rotate(-90 850 760)">ART / CITY / TOGETHER</text>
+</svg>

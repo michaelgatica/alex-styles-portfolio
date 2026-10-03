@@ -1,0 +1,31 @@
+Open GitHub and create a new public repository for this completed static portfolio project, then upload the project files and enable GitHub Pages.
+
+Use these exact settings:
+- Repository owner: my currently signed-in GitHub account
+- Repository name: alex-styles-portfolio
+- Description: Responsive graphic design portfolio built with HTML, CSS, and JavaScript, featuring project modals, tooltips, responsive layouts, and accessible interactions.
+- Visibility: Public
+- Do not initialize the repository with a README, .gitignore, or license because those files are already included.
+
+Upload instructions:
+1. I will unzip `AlexStylesPortfolio_GitHubPages.zip` on my computer.
+2. Do not upload the ZIP file itself.
+3. Upload the CONTENTS inside the `AlexStylesPortfolio` folder directly to the repository root.
+4. Confirm that the repository root contains `index.html`, `styles.css`, `script.js`, `README.md`, `COPILOT_SUMMARY.md`, `TEST_CHECKLIST.md`, `.nojekyll`, and the `assets` folder.
+5. Use the commit message: `Initial Alex Styles portfolio`
+6. Commit directly to the `main` branch.
+
+GitHub Pages instructions:
+1. Open the repository Settings.
+2. Open Pages under Code and automation.
+3. Under Build and deployment, choose `Deploy from a branch` as the source.
+4. Select the `main` branch and the `/(root)` folder.
+5. Save the Pages settings.
+6. Wait for the deployment to finish and confirm the published page loads correctly.
+7. Give me both the repository URL and the live GitHub Pages URL.
+
+Expected URLs should follow this pattern:
+- Repository: `https://github.com/<username>/alex-styles-portfolio`
+- Live site: `https://<username>.github.io/alex-styles-portfolio/`
+
+Guide me step by step through the current GitHub web interface. Pause whenever I need to select local files or confirm an action. Do not publish from a `docs` folder and do not create an extra nested `AlexStylesPortfolio` directory inside the repository.

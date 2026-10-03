@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Field Notes Quarterly editorial system</title><desc id="desc">Three colorful magazine covers with strong typography.</desc>
+  <rect width="1200" height="900" fill="#11131a"/>
+  <g transform="translate(95 115) rotate(-6 165 315)">
+    <rect width="330" height="630" fill="#d8ff58"/>
+    <text x="28" y="70" font-family="Arial" font-size="42" font-weight="900" fill="#11131a">FIELD</text>
+    <text x="28" y="110" font-family="Arial" font-size="42" font-weight="900" fill="#11131a">NOTES</text>
+    <circle cx="165" cy="330" r="104" fill="#3d4dff"/>
+    <text x="28" y="575" font-family="Arial" font-size="25" font-weight="700" fill="#11131a">ISSUE 04 / PLACE</text>
+  </g>
+  <g transform="translate(435 80)">
+    <rect width="330" height="660" fill="#ff5f6d"/>
+    <text x="28" y="75" font-family="Arial" font-size="42" font-weight="900" fill="#fffdf8">FIELD</text>
+    <text x="28" y="116" font-family="Arial" font-size="42" font-weight="900" fill="#fffdf8">NOTES</text>
+    <rect x="52" y="250" width="228" height="228" rx="114" fill="#11131a"/>
+    <path d="M70 550h190" stroke="#fffdf8" stroke-width="16"/>
+  </g>
+  <g transform="translate(775 120) rotate(6 165 315)">
+    <rect width="330" height="630" fill="#3d4dff"/>
+    <text x="28" y="70" font-family="Arial" font-size="42" font-weight="900" fill="#fffdf8">FIELD</text>
+    <text x="28" y="110" font-family="Arial" font-size="42" font-weight="900" fill="#fffdf8">NOTES</text>
+    <path d="M55 250l220 220M275 250L55 470" stroke="#d8ff58" stroke-width="28"/>
+  </g>
+</svg>

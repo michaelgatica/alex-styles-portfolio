@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Kinetic Health digital interface</title><desc id="desc">Mobile product screens in dark navy and bright lime.</desc>
+  <rect width="1200" height="900" fill="#d8ff58"/>
+  <circle cx="1110" cy="100" r="280" fill="#ff5f6d"/>
+  <g transform="translate(175 90)">
+    <rect width="360" height="720" rx="58" fill="#11131a"/>
+    <rect x="22" y="22" width="316" height="676" rx="40" fill="#f4f1e9"/>
+    <text x="55" y="100" font-family="Arial" font-size="29" font-weight="900" fill="#11131a">KINETIC</text>
+    <circle cx="180" cy="300" r="110" fill="none" stroke="#3d4dff" stroke-width="34"/>
+    <text x="125" y="316" font-family="Arial" font-size="52" font-weight="900" fill="#11131a">74%</text>
+    <rect x="55" y="510" width="250" height="70" rx="35" fill="#11131a"/>
+    <text x="113" y="555" font-family="Arial" font-size="22" font-weight="700" fill="#fffdf8">START SESSION</text>
+  </g>
+  <g transform="translate(650 140) rotate(7 180 360)">
+    <rect width="360" height="720" rx="58" fill="#3d4dff"/>
+    <rect x="22" y="22" width="316" height="676" rx="40" fill="#11131a"/>
+    <text x="52" y="104" font-family="Arial" font-size="23" font-weight="700" fill="#d8ff58">TODAY / LOWER BODY</text>
+    <rect x="52" y="170" width="256" height="180" rx="28" fill="#ff5f6d"/>
+    <path d="M72 455h230M72 520h180M72 585h210" stroke="#f4f1e9" stroke-width="18"/>
+  </g>
+</svg>
